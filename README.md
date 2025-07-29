@@ -68,7 +68,7 @@ O **Bot_NinjaExtractorTG** conecta-se diretamente via API do Telegram usando sua
 
 ```plaintext
 📁 Bot_NinjaExtractorTG/
-├── raspador_telegram.py        # Script principal
+├── Bot_NinjaExtractorTG.py     # Script principal
 ├── adicionados.txt             # IDs que já foram adicionados
 ├── adicionados_log.txt         # Log com data/hora dos membros adicionados
 ├── logs_acesso.txt             # Registro de acessos (IP + timestamp)
