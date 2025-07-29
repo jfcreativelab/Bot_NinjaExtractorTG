@@ -12,7 +12,7 @@ Projetado para ser **seguro, profissional, automatizado e com aparência humana*
 
 ---
 
-## 📸 DEMONSTRAÇÕES VISUAIS
+## 📸 Capturas de tela
 
 <div align="center">
 
