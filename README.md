@@ -17,22 +17,22 @@ Projetado para ser **seguro, profissional, automatizado e com aparência humana*
 <div align="center">
 
 ### 🖼️ Tela 1 – Login e autenticação segura
-📌 *[Inserir imagem 1 aqui]*
+📌 *[https://i.ibb.co/0y2fYLS1/print1.png]*
 
 ---
 
 ### 🖼️ Tela 2 – Seleção de grupos de origem/destino
-📌 *[Inserir imagem 2 aqui]*
+📌 *[https://i.ibb.co/5xf7Vdjf/print2.png]*
 
 ---
 
 ### 🖼️ Tela 3 – Progresso de adição com delays e controle
-📌 *[Inserir imagem 3 aqui]*
+📌 *[https://i.ibb.co/DDdP23VJ/print3.png]*
 
 ---
 
 ### 🖼️ Tela 4 – Logs detalhados de atividade
-📌 *[Inserir imagem 4 aqui]*
+📌 *[https://i.ibb.co/rDjDSW8/print4.png]*
 
 </div>
 
