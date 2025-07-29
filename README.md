@@ -32,7 +32,7 @@ Projetado para ser **seguro, profissional, automatizado e com aparência humana*
 ---
 
 ### 🖼️ Tela 4
-📌 *https://i.ibb.co/rDjDSW8/print4.png*
+📌 *https://i.ibb.co/NgDr1w6q/print4.png*
 
 </div>
 
