@@ -17,7 +17,7 @@ Projetado para ser **seguro, profissional, automatizado e com aparência humana*
 <div align="center">
 
 ### 🖼️ Tela 1 
-📌 *[https://i.ibb.co/0y2fYLS1/print1.png]*
+📌 *https://i.ibb.co/0y2fYLS1/print1.png*
 
 ---
 
@@ -32,7 +32,7 @@ Projetado para ser **seguro, profissional, automatizado e com aparência humana*
 ---
 
 ### 🖼️ Tela 4
-📌 *[https://i.ibb.co/rDjDSW8/print4.png]*
+📌 *https://i.ibb.co/rDjDSW8/print4.png*
 
 </div>
 
