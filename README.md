@@ -120,8 +120,8 @@ Este software é distribuído de forma **privada, licenciada e com proteção vi
 O uso não autorizado, cópias ou redistribuição **não são permitidos**.
 
 > Para adquirir uma cópia licenciada, acesse:
-> 🔗 [cakto.com.br/magicodo7](https://cakto.com.br/magicodo7)
-> 💬 Ou fale direto no Telegram: [@magicodo7](https://t.me/magicodo7)
+> 🔗 [cakto.com.br/magicodo7](https://pay.cakto.com.br/376xfep_501899)
+> 💬 Ou fale direto no Instagram: [@JFCREATIVELAB](https://www.instagram.com/jf.creative.lab/)
 
 ---
 
@@ -143,10 +143,3 @@ O uso não autorizado, cópias ou redistribuição **não são permitidos**.
 
 ```
 
----
-
-### ✅ Próximos passos:
-1. Você pode me mandar os 4 prints e eu insiro nos espaços do README com os links corretos.
-2. Posso salvar esse `README.md` pronto em arquivo `.md` pra você baixar e já subir no GitHub.
-
-Quer que eu gere o arquivo agora?
