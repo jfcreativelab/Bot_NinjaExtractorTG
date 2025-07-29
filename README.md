@@ -22,12 +22,12 @@ Projetado para ser **seguro, profissional, automatizado e com aparência humana*
 ---
 
 ### 🖼️ Tela 2
-📌 *[https://i.ibb.co/5xf7Vdjf/print2.png]*
+📌 *https://i.ibb.co/hF5fRyrc/print2.png*
 
 ---
 
 ### 🖼️ Tela 3
-📌 *[https://i.ibb.co/DDdP23VJ/print3.png]*
+📌 *https://i.ibb.co/0RDS9cBH/print3.png*
 
 ---
 
