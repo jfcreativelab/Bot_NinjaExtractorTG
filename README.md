@@ -150,4 +150,3 @@ O uso não autorizado, cópias ou redistribuição **não são permitidos**.
 2. Posso salvar esse `README.md` pronto em arquivo `.md` pra você baixar e já subir no GitHub.
 
 Quer que eu gere o arquivo agora?
-```
