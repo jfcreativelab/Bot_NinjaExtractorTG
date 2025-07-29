@@ -120,7 +120,7 @@ Este software é distribuído de forma **privada, licenciada e com proteção vi
 O uso não autorizado, cópias ou redistribuição **não são permitidos**.
 
 > Para adquirir uma cópia licenciada, acesse:
-> 🔗 [cakto.com.br/magicodo7](https://pay.cakto.com.br/376xfep_501899)
+> 🔗 [cakto.com.br/jfcreativelab](https://pay.cakto.com.br/376xfep_501899)
 > 💬 Ou fale direto no Instagram: [@JFCREATIVELAB](https://www.instagram.com/jf.creative.lab/)
 
 ---
