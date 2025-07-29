@@ -92,7 +92,7 @@ O **Bot_NinjaExtractorTG** conecta-se diretamente via API do Telegram usando sua
 pip install telethon
 
 # 2. Execute o script principal
-python raspador_telegram.py
+python Bot_NinjaExtractorTG.py
 
 # 3. Autentique-se com o login/senha fornecidos após a compra
 
