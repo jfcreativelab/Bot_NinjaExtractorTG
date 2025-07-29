@@ -1,8 +1,3 @@
-Perfeito, mano! Aqui está uma versão mais **profissional, técnica e estilizada** do `README.md` para o **Bot\_NinjaExtractorTG**, com foco comercial premium e com **espaço reservado para os 4 prints**.
-
----
-
-````markdown
 ![Bot Status](https://img.shields.io/badge/NinjaExtractorTG-Online-success)
 ![Telegram API](https://img.shields.io/badge/Telegram-API-blueviolet)
 ![Project Type](https://img.shields.io/badge/Type-Member%20Automation-informational)
